@@ -1,1 +1,1 @@
-# BJ
+# Beakjoon code
