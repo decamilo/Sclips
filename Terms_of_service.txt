@@ -1,0 +1,35 @@
+Terms of Service
+
+Effective Date: [Insert Date]
+
+Welcome to Sclips! By accessing or using our app, you agree to the following terms and conditions. Please read them carefully.
+
+1. Acceptance of Terms
+By using Sclips, you agree to comply with these Terms of Service. If you do not agree, please do not use our services.
+
+2. Description of Services
+Sclips provides a platform for users to upload, manage, and share video content across multiple social media platforms. Additional features may include community engagement tools and analytics.
+
+3. User Responsibilities
+You are responsible for all content you upload or share using our app.
+You must not upload any content that violates laws, copyrights, or third-party rights.
+You must be at least 13 years old to use our services.
+4. Intellectual Property
+All intellectual property rights related to the app, including design, trademarks, and content provided by us, remain our property. You may not copy, distribute, or create derivative works from our materials without our written consent.
+
+5. Privacy
+Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your information.
+
+6. Limitation of Liability
+We are not responsible for any damages arising from your use of the app, including data loss or third-party interactions facilitated by the app.
+
+7. Modifications to the Terms
+We reserve the right to modify these terms at any time. Continued use of the app after changes are made signifies your acceptance of the updated terms.
+
+8. Termination
+We may suspend or terminate your access to the app if you violate these terms or engage in prohibited activities.
+
+9. Contact Us
+For questions or concerns about these Terms of Service, please contact us at support@sclips.com.
+
+This document is a template and may need customization based on specific legal or operational needs. You can use GitHub Pages or another hosting service to publish this document online.
