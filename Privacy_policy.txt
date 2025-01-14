@@ -1,0 +1,31 @@
+# Privacy Policy
+
+## 1. Introduction
+Your privacy is important to us. This Privacy Policy explains how we collect, use, and share information about you when you use Sclips (the "App").
+
+## 2. Information We Collect
+- **Personal Information**: Such as your name, email address, and other account details when you register.
+- **Content**: Videos, captions, and other media you upload through the App.
+- **Usage Data**: Information about how you use the App, including interaction logs and preferences.
+
+## 3. How We Use Your Information
+- To provide and improve our services.
+- To communicate with you regarding updates and support.
+- To comply with legal obligations.
+
+## 4. Sharing Your Information
+We do not sell your personal data. Your information may be shared with third-party services only as needed to provide the App’s core features.
+
+## 5. Data Security
+We implement robust security measures to protect your data. However, no method of data storage or transmission is 100% secure.
+
+## 6. Your Rights
+- You can access, update, or delete your personal information at any time.
+- You can opt-out of non-essential communications.
+
+## 7. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any significant changes.
+
+## 8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at privacy@sclips.com.
+
